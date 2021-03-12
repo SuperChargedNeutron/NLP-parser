@@ -1,0 +1,257 @@
+Header:
+McLEAN:: From Page to Screen:
+
+
+
+Recorded at Miami Book Fair 2016
+
+with
+
+Andrew Albanese, Publishers Weekly
+
+Rafael Lima, University of Miami
+
+Kristen McLean, Nielsen
+
+For podcast release Monday, November 28, 2016
+
+KENNEALLY: Welcome, everyone.  Thank you to everyone involved with the organization at the Miami Book Fair, it’s always a pleasure to be here for this event.  Our program today is called “From Page to Screen: Multimedia Storytelling and the Future of Reading. ”
+
+At such an event as the Miami Book Fair, we may be forgiven for thinking of reading and writing as natural.  Certainly they seem natural to us all, but reading and writing are not natural at all.  Speech is natural to humans, as natural as songs for birds.  Writing and reading make use of technology, the product of human imagination and invention.  Nearly two million years ago, speech and technology emerged together on the African savannah.  Those early ancestors of ours, the hominids, began to fashion stone tools at around the same time as they developed the necessary organ for speech, an unusually shaped tongue. 
+
+Fast forward to a mere 8,000 years ago.  Sumerians etched the first pictographs in moist clay with a sharpened reed stylus.  The earliest form of Chinese writing, known as oracle bone script, was etched onto turtle shells and animal bones, but that was only 3500 years ago.  Today, digital technology makes possible reading and writing, as well as the sharing of that self-expression to a global audience.  We read books, still, of course, and we read on a smart phone or a laptop, or, less and less, an e-reader.  The rise of these devices presents a fascinating, perplexing challenge for reading and for books.  All at once the books moves from the printed page to a screen, placing it next to every and all other media.
+
+Header:
+with: 
+
+How well will the book get along with its new neighbors? How much will we continue to read, and how much will reading continue to matter? Writing in The Wall Street Journal in 2015, Walter Mosley, the author of more than 40 books including the bestselling mystery series featuring Easy Rawlins, and a winner of Pen America’s lifetime achievement award conceded the inevitable, yet cause for optimism.  In the near future, he wrote, books will be more on electronic screens than on paper.  This is good because it will save the lives of many trees and because access to the libraries of history will be open to everyone.  Books will still be published, Mosley continued, writers will still complain about their publishers, stories will continue to be told, and readers will still hanker after them.  He concluded, there’s nothing like reading.  What do you think? Anyone agree?
+
+(applause)
+
+All right, then, so let’s talk about the future of an 8,000 year old technology, and to do that, I want to introduce my panel.  I’ll go by alphabetical order and say in the center is Andrew Albanese.  Andrew welcome. 
+
+(applause)
+
+ALBANESE: Thank you. 
+
+KENNEALLY: Andrew Albanese is senior writer and features editor at Publishers Weekly, and the author of The Battle of $9. 99: – that’s $9. 99 – How Apple, Amazon and the Big Six Publishers Changed the E-Book Business Overnight.  As a journalist, he’s covered the publishing and information technology field for over a decade, and he is a former editor of American History at Oxford University Press.  To Andrew’s left is Rafael Lima.  Rafael, welcome. 
+
+LIMA: Hello. 
+
+(applause)
+
+KENNEALLY: Rafael Lima is a Miami novelist, screenwriter, playwright, and journalist.  His play, El Salvador was developed and staged at Circle Reparatory Theater in New York and published by Samuel French and Applause Books.  After an extended run, El Salvador was translated, published, and produced internationally in seven languages and won the LA Drama Critics Circle Award, a Drama-Logue Award, and a Rockefeller grant for excellence in dramatic writing.
+
+Header:
+KENNEALLY::  Rafael Lima has written feature screenplays for Paramount, Disney, Castle Rock, and Desilu Productions, as well as several television series.  Additionally, he’s written numerous documentary projects for PBS and the Discovery Channel which have earned him an Emmy nomination, three Telly awards and many others.  Last, but not least, Rafael Lima’s novel Zero Point: The Triangle Conspiracy was an Amazon best-seller. 
+
+And then finally to my left directly here is Kristen McLean.  Kristen, welcome. 
+
+(applause)
+
+Kristen is the Director of New Business Development at Nielsen Book, part of Nielsen Entertainment.  She’s a 20-year veteran of the publishing industry, where her career has spanned many roles including front-line retailing, merchandizing, buying, marketing, and business development.  She lectures extensively on issues facing the publishing world, including the effect of technology and culture on books and reading, and the role of book stores and libraries in the lives of 21st century readers. 
+
+Kristen McLean, I’d like to start with you because we were hearing, at one point, that print is dead.  Now those headlines were a couple of years ago.  Like a lot in the news, things come and go, and I believe the story has changed a fair amount.  We were hearing just only a few months ago that print was back.  So where is print, that wonderful technology that’s been around for centuries?
+
+McLEAN: I’ve always been a big fan of print, and I think to be a futurist right now is to be a fan of print because what we’ve seen is that certainly digital came in around 2007/2008 and really started to disrupt things in the publishing market in 2010/2011, but it didn’t quite have the meteoric growth that everyone was expecting.  There was a couple of examples of libraries that very quickly got rid of all their books in favor of digital, have been proven to be a little bit hasty.  We’ve seen in the last couple of years that e-book sales are down, generally, and print book sales are up.
+
+Header:
+McLEAN::  Right now, e-books are about, overall, 20% of the US book market, but that’s a bit of a tricky number because in certain categories like romance, e-books are up above 50% whereas in categories like kid’s books, they’re down like around 10%, and going down in most categories except for, perhaps, romance and mystery. 
+
+Q: There are a lot reasons for that, and we’ll talk about that, but it’s important to stress, I think, that among the factors – the business factors, the role that publishers have played in their own decisions, consumers have made a choice here.  They’ve returned to print.  Would you say that’s true?
+
+McLEAN: I think that’s true.  I think there’s a couple of things going on there.  The first is that I think the shininess of e-books has worn off a little bit, and people have made some choices for themselves that in a certain number of cases, they want to go back to print because they prefer the experience.  I think that, and maybe Andrew’s going to talk about this, there’s some business issues behind that also.  I think that the publishing industry has gone through some legal challenges to e-book pricing, where publishers want to keep the prices a little higher, Amazon wanted to keep the prices as low as possible.  And then we have self-publishers in there, who are able to set extremely low prices for their self-published e-books.  So it’s created a bit of a wild west in the digital space, also, so I don’t know whether or not E is slowing down because now publishers have gone back to setting some higher prices for their e-books.  But I do think it’s a combination of all these things. 
+
+One of the biggest surprises, initially, with e-books is when they first came out, we assumed that we were going to see, for instance, teens picking up e-books in really great numbers.
+
+Header:
+with:  One of the first indicators that we had that maybe our assumptions about that were wrong was early research that we did that found that actually, in fact, teens did not like e-books, and had a very strong preference for print, and have continued to have a very strong preference for print.  What that taught us right way is the fact that, of course, our assumptions about e-books as a technology really ran headlong into teens – that for them books are an identity factor, number one.  Number two, they don’t necessarily want to spend the money on e-books.  But most of all, e-books are really a productivity platform.  I had to really think about that for a while because teens – productivity is not really a big part of (overlapping conversation; inaudible). 
+
+KENNEALLY: I was just going to say, there’s an oxymoron involved here. 
+
+McLEAN: Yeah, so the people who tend to read e-books are reading them because they like the convenience of it, they like to be able to take it – we talked about taking books to Mars.  If you’re going to take books to Mars, you’re going to take e-books to Mars.  So I just think there’s a lot more complexity around this than we thought, but you’re not going to throw over a 4,000 year old technology in the space of a few years. 
+
+KENNEALLY: Right.  People – by that I mean readers, the readers in this room and outside, all over the place at the Miami Book Fair – they’re able to make distinctions that a lot of us were worried about.  We were worried about this blurring of the line.  Now, it’s happening, but you have told me that your research indicates that people don’t get confused.  They know the different between a book and a game, for example, and they can see the difference and they make choices about when they’re going to read, and what forms they’re going to read.
+
+Header:
+KENNEALLY::  So the reader is a lot smarter than some people gave them credit for. 
+
+McLEAN: Oh, I think you’d be a fool not to pay attention to your readers and customers in this area.  I do a lot of research in the kid space, and one of the things that I talk a lot about and have been consistently really amazed by is the self-regulation of even young readers and kids.  My daughter’s here, she’s probably going to hate that I’m pointing this out, but she’s right there right now.  High technology households are high reading households, and kids are super omnivorous, so they choose the technology that they want to use at the time that they want to use it for what is appropriate in the moment.  So short-form content, like gamings or videos early in the day, reading, long-form content like movies late in the day.  That’s not true just of kids, that’s true of adults, too.  So when we look at this whole thing, we have to think of it as a diet – a media diet – where you eat certain things and you consume certain things at certain times, and readers are super sophisticated about that. 
+
+KENNEALLY: I love that point, and maybe we can come back to it, about high technology households are high reading households.  But Andrew Albanese at Publishers Weekly, I want to bring you in here because that’s a fairly optimistic assessment of the situation.  But there are some recent numbers out that tell a story that’s a bit more sobering.  We’ve seen a fairly strong growth in bookstore sales that has now just recently tailed off, and where there is a kind of growth, it’s fairly anemic, and this may be reflecting what you think is the competition for media consumption that’s out there. 
+
+ALBANESE: Yeah, absolutely.  I think Kristen’s right.
+
+Header:
+ALBANESE::  To me, it’s not a surprise that e-book sales are now declining and that print book sales are ticking back up a little bit because as Kristen said, the major publishers have put a thumb on the scale when it comes to favoring print.  How many of you have noticed, for example, that a new release e-book today costs about the same as a hardcover book.  That to me is an inhibitor.  If I have a choice to spend the same amount of money, I’m probably going to get the print book, especially because I was raised on print and that’s what I like. 
+
+KENNEALLY: And the print allows you to do things you can’t do with an e-book, too.  You can lend it to your friend, you can resell it at a bookstore, you can do all kinds of things that e-books just aren’t open to. 
+
+ALBANESE: And there’s a convenience factor with e-books, too.  You can’t bring your hardcover and put it in your pocket and pull it out while you’re waiting on line at the DMV for four hours.  It’s just not likely that you’re going to do that. 
+
+But I do think that what we’re talking about when we talk about this is really the future of immersive reading.  How much time people have to really spend on books given that in the e-book age now, all content is pretty much accessible from a single screen.  I don’t think the publishing industry has made it all that easy for people to continue to access books at $14. 99 a pop, when readers now have the ability to watch unlimited Netflix for $8. 99 a month.  If you’re a Prime subscriber, you can watch and access all kinds of content on Amazon.  It’s all folded into your Prime fee for the year.  You can listen Spotify, you can play games, you can use Facebook.
+
+Header:
+with:  I think when all of those things are free or low cost and are easily accessible from your phones, that putting books onscreen next to those things – books aren’t stacking up quite as well with younger readers, at least. 
+
+KENNEALLY: And the other competition is competition for time.  We discuss this a lot in our weekly podcast on Beyond the Book, and what you have said a number of times, and was really the genesis for this discussion today is that our lives have changed in ways that books and book publishing haven’t kept up.  A great point, we mentioned Kristen’s daughter, you’re the father of two very young children, so you know about the little time available for the kinds of things you might have done in a previous life, which is reading.  Everyone today – a lot of people are working, sometimes two jobs, they’ve got responsibilities as parents, the work comes home with them.  So the time that’s even available for reading, let alone the cost of e-books and the rest of it, that’s bearing down on us, as well. 
+
+ALBANESE: Absolutely.  I think it’s hard to disagree with that, that our lives are under so much pressure, our time is under so much demand these days.  My daughter’s in first grade, she has 45 minutes of homework a night, in first grade.  Now, 20 minutes of that is supposed to be reading, usually we do more.  But still, one job used to do it, and now it takes two to run a household.  There’s more and more pressure on us and I think less and less time for not only sitting down and actually reading, but finding what you’re going to read next.  And I think that’s another area that we can touch on where it takes a little bit of time to find that next great book that you want to read, where on Facebook for example, that next thing pops right up.
+
+Header:
+with:  You get pushed stuff in your feed digitally all the time that might take away your attention.  How many times have you logged on to your phone thinking you were just going to look at Facebook for five minutes, and two hours later you realize that, oh, you’re late for something. 
+
+KENNEALLY: It never happens.  Well, Rafael Lima, I’m looking forward to hearing from you because of your background as a storyteller across a variety of media, and that’s really important to this discussion because what we’re saying here is that books are now in competition with all these other media in ways that they wouldn’t have been before.  Prior to the digital age, the book was in a temple.  The temple was called Barnes & Noble or Brentano’s or somewhere, and you had to go there and get the book and bring it back with you.  Now it’s on the phone, on the tablet. 
+
+As a storyteller, how do you feel about that? What impact on storytelling do you think this is going to have that we are moving towards a culture that is less print, less textual-based and increasingly about the visual, and more than the visual, the audio, as well, the role?
+
+LIMA: Yeah, I think the real competition is not necessarily books against other kind of media, but it’s different forms of storytelling that is now competing for attention.  It’s short-form storytelling, it’s video storytelling, it’s multimedia storytelling, it’s Facebook.  Whenever you log into Facebook and you see one of those videos that by the way, nobody listens to, they just – it’s the titles now, it tells you a story.  It’s how captivating the story becomes that determines whether or not you pay attention to the story, follow the story all the way through. 
+
+I was going to respond that the novel, some scholars say, is 200, 300 years old.  Some say it’s from the 17th century.  But story is 10,000 years old.  I think story comes from the cave paintings.
+
+Header:
+LIMA::  If anybody’s ever seen those wonderful French caves where the hands are emblazoned on the side of the cave as though it’s a fingerprint, as though it’s saying, I’m here, I’m alive, and there’s these images of these animals and little stick figures running after them and spearing them.  That’s a story, and that’s the human expression of story coming through.  I think that tradition has morphed over the millennia from the oral Greek traditions where stories were told verbally to the papyrus reed to the Bible, to Guttenberg and books, and now it’s the internet.  But I think it’s story, I think it’s narrative, I think it’s how we experience the world. 
+
+KENNEALLY: And it has to matter, right.  The medium that you choose as a storyteller will have an impact on the way that you tell the story, and you know that only too well.  Talk about your personal preferences as a novelist, that writing experience, that work experience is a singular one, a solitary one.  And on the receiving end, it’s a solitary one, as well.  In movie-making, those enormous business operations with, again, on the creation side, enormous studios, and on the receiving end, you’re in a theater with a couple of hundred other people.  So that solitary experience as a novelist, how does it compare in your mind with the more communal experience working in movies, say?
+
+LIMA: The experience of the reader or the viewer is the same.  You’re tracking a character, you’re tracking a struggle of a character to get something.  In terms of crafting the story, it’s completely different.  A novel speaks to you in your head.  It’s the writer’s observations, it’s the writer’s dialogue, it’s his crafting of character.  He’s whispering in your head, and it’s verbal. 
+
+In a movie, a lot of the times if you mute the dialogue, you can still follow the story because a movie is actually a comic book, it’s a story told in pictures.
+
+Header:
+LIMA::  You can’t do that with a television show.  If you mute Seinfeld, it’d just be a lot of people talking, you wouldn’t know what they were saying.  If you muted a play, you couldn’t hear what the characters were saying, you couldn’t follow the story.  So different kinds of story call for different kinds of techniques in storytelling.  Movies are visual, plays are dialogue, television is dialogue, novels are inner monologue, which is the character’s thoughts, description, and observation.  So each story calls for its own technique. 
+
+KENNEALLY: And there’s a lot of ability involved.  I don’t think you’re ranking novel-writing, for example, as the supreme level.  I think you have an appreciation, certainly in your own work, but from others as well, that a particularly fine storyteller can be working in a screenplay and do things that are equally remarkable as a novelist.  In fact, you brought an example here.  Many people haven’t actually seen a screenplay, and it’s a good way to show what lies behind all that magic. 
+
+LIMA: Yeah.  Maybe we can pop that up.  So there’s a screenplay that I teach my screenwriting students.  It’s called The English Patient, based on the novel, and the writer was also a novelist who crafted the screenplay.  Some of the description in the screenplay are as beautiful as the prose in the novel.  Also the digital book – sometimes you’ll 20 or 30 digital books, it’s like, where did they go? And you know your print books are on the library, you can see them, they’re made out of stuff.  So what screenwriting students try to learn is that screenplays are spare description, nothing but the visuals and the dialogue so the director knows what shots to shoot and the actors know what to say. 
+
+But screenwriting is still an art – it’s still a literary art, and some screenwriters write with great beauty, great insight, great observation.
+
+Header:
+with:  For instance, if you look at – this is the PDF for The English Patient.  I’ve heard professors tell students not to write anything in a screenplay that isn’t a visual or that isn’t dialogue.  But that’s not right because what you’re trying to evoke in the readers mind, of a screenplay, and the director’s mind, is the image that you want to portray.  So here it says, even his helmet is on fire, but the man makes no sound as the flames erase all that matters – his name, his past, his face, his lover.  It’s beautiful writing.  Does it belong in a screenplay? The PhDs at my university, oh, gosh, shouldn’t have said that, will say no, it doesn’t belong there.  But I think it does because it evokes an image, it evokes an emotion, and a screenplay is about emotion. 
+
+But the actual structure of a screenplay is a lot more sparse and a lot more technical.  Exterior, desert, 1942, day – that’s just the slug that tells you what’s the setting.  The rest of the description is supposed to tell you what the camera will see, and each heading is a different scene.  This is essentially what a screenplay looks like and has looked like since the ‘20s and ‘30s and up to this moment. 
+
+KENNEALLY: The reason we wanted to show that was, again, to give people in the room here an appreciation for what we’re talking about here, and whether or not the book is at some supreme level.  I think what we’re getting at here is that storytelling is the key point.  Andrew talked about the immersive nature of it all. 
+
+But I want to turn back to Kristen McLean because you’ve done some research, particularly around children and their media consumption.
+
+Header:
+KENNEALLY::  There’s some new research out that shows that of all the brands that children are familiar with – Oreo and I suppose the Gap and gosh knows – Apple and the rest of it, the brand they rank as their number one is YouTube.  What’s fascinating about YouTube is that it is a platform for content, for consumption, but it’s also a platform for creation.  So I think in that, what we’re seeing is a generation that’s going to be growing up both as consumers – as readers, as watchers – but also as creators.  Talk about that. 
+
+McLEAN: Yeah, I think that that’s true.  Part of my specialty within Nielsen is the children’s book market, so I’ve been studying the children’s book market since 2010 – before the rise of e-readers and iPads and really YouTube.  That’s all happened since I’ve been studying kids.  I’m tremendously positive about the book market based on what I see in the kids industry, but it’s not my parents’ book market, for sure.  It’s not my parents’ content market.  So a few of the indicators.  Children’s books are the brightest spot in the publishing market right now with double digit growth.  It’s the only area of the publishing market that’s growing that way, and it has been sustained growth over the last 10 years.  So parents are spending a lot of money and buying books for kids, and there’s a lot of reading going on for kids.  However, there’s also a lot of content consumption in other forms going on.  This is the first year that we’ve seen YouTube come out on top in a brand affinity study for kids.  It’s up 10 spots since last year, in this study, to number one. 
+
+My observation about that is YouTube is a really different kind of platform from anything we’ve seen before for kids, in particular.  They use it like Google.
+
+Header:
+with:  They use it to research topics, they use it to learn from their peers or from others about things that they’re interested in learning.  They use it to create videos to express themselves.  There’s just a lot of really interesting stuff going on there.  They use it to listen to music, they use it to watch videos. 
+
+But when you start to think about platform for kids, and storytelling platform and frame it that way, you start to think, oh, well, there are a lot of platforms that kids are really into right now.  I would argue that Lego is a platform for kids that’s creative.  I would argue that Minecraft is a platform for kids that’s creative, where there’s lots of different kinds of behavior going on in there, and there’s a lot of really interesting storytelling and rich interactive behavior going on in there. 
+
+I would totally agree with you, Rafael, I think, and I don’t think any of us disagree, that story is really the currency, and that a lot of the anxiety that we’ve had over the book has to do with this feeling that the books are on a pedestal, but I actually think that the story world is super rich right now for kids, and that there’s lots of different ways that they are consuming story and lots of different ways that they are making story, and that we just really need to attend to that function rather than the package that it comes in. 
+
+KENNEALLY: That richness in the story world, as you put it, I like that, is evident not only for children for adults and in the publishing world. 
+
+Andrew, you’ve been to two recent big events for the publishing world, the Frankfurt Book Fair, the largest book fair in the world, as well as just a couple of weeks ago in San Francisco, a conference called Books in Browsers.  That title may need some updating there.
+
+Header:
+KENNEALLY::  What you have seen are a number of projects from creators who may be thinking of themselves as authors, but are using a whole host of new digital materials.  There also are some new emerging platforms.  Give people a preview of some of that. 
+
+ALBANESE: I love my job.  I get to basically go around the world and meet with creators and publishers and talk about just what I’m talking about with you people in Miami today.  It’s pretty great.  But what really came across to me, in the last month especially, both from my trip to Frankfurt for the Frankfurt Book Fair, and in San Francisco for Books in Browsers was that the digital revolution in publishing, as we’ve perceived it so far, is just a border skirmish – how books are going to be delivered, how we’re going to read them, etc.  To me, the real revolution is happening – it’s a slower-moving revolution, but it’s happening on the creative side.  What I would say is that creators will always use the tools that are available to them to tell their story.  There are more tools available for digital creators, now, than ever before, well beyond text on a screen. 
+
+KENNEALLY: And ones you wouldn’t expect.  I think at Books I Browsers, you saw a project that was developed entirely on Instagram. 
+
+ALBANESE: Yeah, there was a project – this filmmaker named Adam Dewar created a project called Shield 5.  Has anyone seen this on Instagram? It’s essentially a spy thriller.  He told the story using the 15-second clips that Instagram at the time allowed – now you can go longer – but also documents and posts and text messages and user comments, all of it was a package to tell the story of the spy thriller.  As I was watching this in San Francisco, I thought, well, that would be cool marketing for a book.  And then a couple of slides in, I was like, wait, that’s a cool story.
+
+Header:
+ALBANESE::  That’s a great idea.  Now the concern I have with that is how does a library archive an Instagram story.  It seems fairly fleeting.  But that also is the point, too, that we’re experimenting.  We’re trying new things. 
+
+There were a number of other really great things that I saw at Books in Browsers.  One was a music study tool.  Nick Brown from a company called Ingram VitalSource, they’re creating the next wave of music books.  It’s totally interactive with the music, but what’s neat for me was that he could conduct a virtual orchestra using his phone as the baton.  He could change the tempo of the music just by changing his motion. 
+
+There’s this interactivity that stories now have at their fingertips that I can’t see them not taking advantage of in the future, especially as young generations come to demand that kind of interactivity from the stories they consume.  At Frankfurt this year there was a company that launched called oolipo.  I know, interesting name, not exactly –
+
+KENNEALLY: Interesting name, but we’ll spell it for everyone.  O-O-L-I-P-O.  You might want to (overlapping conversation; inaudible) –
+
+ALBANESE: They’re a platform provider and they launched at the Frankfurt Book Fair.  They didn’t launch at one of the tech shows or trade shows, it was at the book fair.  What oolipo does is it provides a platform for creators – for your daughter, Lola, (sp?) perhaps, very soon, to use all of the features that are on your smart phone in the service of storytelling.  It’s GPS, music, video, text on the screen, too, but all of it in one place to create stories and share them.  As we know, if anyone’s on Snapchat or any of these other places, you know that that kind of multimedia storytelling is pretty innate for a younger generation of creators.
+
+Header:
+
+
+KENNEALLY: And you also saw our project that we featured on Beyond the Book, a woman, Jane Friedhoff, who worked for a time at The New York Times.  But she comes out of games, and Kristen brought up games.  The games industry today is the largest media industry, I believe, in the world.  It’s larger than the movie-making business right now, billions of dollars in sales every year.  What Jane was trying to bring into The New York Times’s online presence was a level of interactivity that went beyond the comments section.  Briefly describe that because I think it’s going to be important, and I want to raise it with Rafael, to think about not only is the medium itself interactive, but the relationship for readers and authors is becoming more interactive, too. 
+
+ALBANESE: Yeah, the program is called Membrane and essentially what it allowed you to do was, as the reader, to go in and just highlight any word or passage in a story and start a conversation with the author, with other readers, about whether or not you agreed, disagreed, a fact you wanted to add or something.  It’s sort of a next-level comments function, whereas now comments are just an angry screed at the end of an article, this was much more interactive and targeted conversations within a story, and it laid over the story like a skin.  So you would have the story, but then you would have this ability to engage with the story, both with the author and other readers.  Now, the kicker to this story is, she worked on this with The New York Times R&D lab, and now this things sits mothballed among some of the Times other moribund IP and code, and nothing’s happening with it.  But it’s a very powerful tool. 
+
+KENNEALLY: Kristen McLean, you have a reaction. 
+
+McLEAN: I want to ask the audience a question.  It’s funny, as we’ve gone through a lot of these interesting experiments, some things keep circling back.
+
+Header:
+McLEAN::  This idea of annotation is one that – especially in long-form – I’m just curious what the audience has to say.  How many of you guys feel like you would like to see other readers’ comments in the text of a book that you’re reading, as you’re reading.  Raise your hand if you would like that. 
+
+KENNEALLY: A few.  Not a majority, but a substantial –
+
+McLEAN: Raise your hand if you would not like that, or if you would like to be able to turn that off. 
+
+KENNEALLY: That looks like a majority, yeah. 
+
+McLEAN: I think one of the interesting things for me, and I think that I’m just continuing to watch this is that some of these things – I think that there’s something in the book, the long-form book, that those of us that really like that form of storytelling, that it is deeply personal, and we want to be immersed and we want to be able to read all the way through.  This is one of those areas where I keep seeing things come up, but then drop off, and come up and drop off because I think there’s something in our psychology about our relationship to this medium that is still very strong and is resisting incursions from the outside. 
+
+KENNEALLY: Rafael Lima, I know you must feel strongly about that. 
+
+LIMA: Yeah, this is very personal for me because we just took apart a library at the bottom floor of our communications school, and now it’s called the interactive room.  I think there’s a real danger.  We need to backtrack.  What an author does in a book, what a director does in a movie, what the guy did inside that cave wall is a personal statement that he wants you to know about.  He’s telling you something about his observation about the human experience that he or she wants you to know about.  It’s a personally shaped, themed message to you about how he feels about life.
+
+Header:
+LIMA::  It’s not interactive.  It doesn’t call for you participate.  It’s simply an experience he or she is sharing with you.  I think the danger is that that personal subjective experience is being diluted with multimedia.  In other words, Romeo and Juliet – would you like to have a number of different endings you can choose? Or is it just enough –
+
+Q: If you want a happy ending for Romeo and Juliet, you can have it, is that it?
+
+LIMA: Well, the families get together or he becomes a stock car driver, or whatever it is.  But that wasn’t the purpose of the play.  The purpose play was to tell you that love defies even death.  That’s the message, that’s the thing that comes across.  It took the artistry and genius of a Shakespeare to shape that.  I think we might be losing that, or eroding that singular authorship. 
+
+KENNEALLY: Andrew, you’re shaking your head. 
+
+ALBANESE: I think that we’re just factoring in our psychology as it exists today.  We sound like poets sneering at the end of iambic pentameter.  It happens.  The form moves on as people change and as the world change.  We were talking and Chris mentioned Mars before in the hallway, we asked about the future of print.  My response was I can’t imagine life on earth without printed books – without books.  But humans are going to be on Mars someday, and they’re not going to build libraries.  That’s the view I’m taking.  It’s a longer, maybe not a practical view, but –
+
+KENNEALLY: Right, but there is some research, though, and this would be where I would put myself with Raphael, is that the type of reading we’ve talked about, immersive reading, there’s also a phrase in this discussion called deep reading.
+
+Header:
+with:  What some research has shown – and human nature being what it is, there’s probably another research study that would show the opposite – is that the kind of reading that we do online is, frankly, skimming, and that it is not the kind of deep reading that we do when we read a book.  While people are adapting, as Andrew, you are advocating for, they’re adapting to the technology that’s at hand, and they live in the real world, they become bi-literate, but there is a kind of competition in the brain between the deep reading of the literary sort, and the skimming of the more online sort.  While the two should coexist, there’d be concern that eventually the skimming will win out because it just seems that’s the direction we’re going. 
+
+LIMA: Can I just – because it’s kind of like your diet analogy.  It’s almost like we’re adapting to snacking rather than sitting down to a really wonderful full meal.  I deal with this every day in my classrooms.  I have 20 students, three classes of writing students, and they’re all Facebooking and they all have a sense of this immediate gratification that is available on the Internet.  Rather than sitting through, or reading through, a long book, a 300 page novel, whatever it is, a two-and-a-half hour movie, whatever it is, they seem to want to seem to want their satisfaction quicker, and that’s my concern. 
+
+KENNEALLY: And they enjoy the distractions.  You and I, perhaps, Rafael, would be looking at it as a distraction, but for them it’s an addition.  I understand that the movie industry is trying to face up to the fact that people don’t want to be away from their phone for two hours to watch a movie, and they’re trying to find environments where they can interact with the movie and continue to be online. 
+
+Kristen, before we get to questions from the audience, we’re going to talk about the future of reading.
+
+Header:
+with:  About where the reading material is going to come from, and perhaps in that way, too, ensure future generations of readers.  The two places, predominantly, that they come from, even today in 2016 are bookstores and libraries, and they remain really critical.  Now libraries may be adding to their digital collections.  Hopefully they’re not going to be eliminating their print collections as some have done.  But tell us why libraries are really on the cutting edge when we might not expect them to be. 
+
+McLEAN: I’m very bullish on libraries and book stores for different reasons.  I think that for libraries, there are 16,000 libraries in the United States.  There’s way more libraries on the ground than there are bookstores or retail stores, generally. 
+
+KENNEALLY: I think book stores are 3,000 (overlapping conversation; inaudible). 
+
+McLEAN: Yeah.  But the other thing that’s really wonderful about libraries is they have a different mission.  They are there to serve the communities in which they are embedded.  My experience with librarians in particular is that they’ve actually been ahead of much of the publishing market in thinking about what that means in their communities.  So we’ve seen librarians as really early adopters of some really interesting ideas, like, for instance, some of the best children’s librarians have put in gaming lounges.  Now whether your think that’s a good thing or not, from a community service point of view and from an engagement point of view, the librarians who have done this really think it’s awesome, partly because we know from our research that librarians, when they have relationships with kids and readers in their community are very strong recommenders of books.  That’s a very important source of discovery for the people who use the libraries. 
+
+I think one of the biggest challenges for librarians now, and we see this also in our data is the fact that there’s a split right now between high income households and low income households using the library.
+
+Header:
+with:  What we see is that high income households tend to use the library a lot less now because they have access to technology in their household and all that storytelling is coming into the household, and they don’t have the need to go to the library in the same way. 
+
+My question about that really has to do with just two different realities in terms of this really important cultural institution.  So librarians are really wrestling with this, and they are thinking a lot about how to get people into the libraries, what is the mix of digital versus print in their libraries? But they’re the guerilla literists (sp?) on the ground.  They really are there to try to help. 
+
+KENNEALLY: It’s fascinating because that challenge is a cultural challenge, it’s a community-building challenge, it’s an educational challenge.  There’s just so much at stake in the next 15, 20 years, and those libraries, as you say, are really at the center of that, it’s great. 
+
+Andrew, I know you used to write for Library Journal, you cover libraries and library associations, you talk about it a lot.  Chime in there on the role of libraries and the future of reading, as it relates to their activities. 
+
+ALBANESE: Yeah, Kristen’s absolutely right.  I, too, am really bullish on libraries and the future of libraries, the profession as well.  One of the things that it strikes that librarians are doing is trying to move further upstream in the creation process.  I think Instagram, this Shield 5 thing that I spoke about earlier, that’s one of the reasons why.  They realize that they might not have the role that they used to have in the past – collecting, preserving, and sharing content.  More of that content is going directly to people, especially in high income houses.  So I think librarians, to cope with that, are – they’re building recording studios in their libraries, they’re lending out AV equipment.
+
+Header:
+with:  Books, of course, and reading remain a huge part of what they’re doing now, but I think a lot of them see the future maker spaces – 3D printers, etc.  – is try to become more essential to creators.  So rather than just writing checks to buy things from publishers, they’re trying to implant themselves a little further upstream, and I think that’s a pretty smart play for them. 
+
+KENNEALLY: Rafael Lima, I want to give you the last word, here, because you’re a man who makes his living from writing of all kinds.  You have seen the various industries that you work in wrestle with the digital dilemma.  The newspaper business – you’ve written for magazines, as well – is certainly falling on hard times, and the book business, flat is the new growth and all the rest of it.  Is it really a fact of economics that what we’re seeing is a lot of writers today are choosing to work in television and film because, well, that’s where the money is?
+
+LIMA: That was always where the money was, even in the ‘80s when I was a playwright in New York, my agent said, look, you’re going to get dramatist skill scale for a play that took you two years to write and you’re making $3,000.  Go to LA and write movies and buy a house with a pool. 
+
+But I think what it is that as – and I think Andrew is completely right, I think that there has to be a digital solution to growth, and I think adaptation is the key.  I think we have to adapt to these new media, but I just hope that we bring the genius of great storytelling to these new media.  The money’s going to be there because people will always be hungry for story. 
+
+McLEAN: Can I just say one last thing, just as an observation about the cycle.  I’ve been really interested in audio, and we haven’t really touched on that.
+

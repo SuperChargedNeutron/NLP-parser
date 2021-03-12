@@ -1,4 +1,4 @@
-Prompt 0:
+Header:
 Joe Rogan
 Ah, ha, ha, ha.  Four, three, two, one, boom.  Thank you.  Thanks for doing this, man.  Really appreciate it. 
 
@@ -38,8 +38,7 @@ Does anybody tell you no? Does anybody go, "Elon, maybe for yourself, but sellin
 Elon Musk
 Yeah, it's a terrible idea.
 
-
-Prompt 1:
+Header:
 Elon Musk:  It's terrible.  Don't buy one.  I said, "Don't buy this flamethrower.  Don't buy it.  Don't buy it. " That's what I said, but, still, people bought it. 
 
 Joe Rogan
@@ -108,8 +107,7 @@ Did it work? Was it effective?
 Elon Musk
 I don't know.
 
-
-Prompt 2:
+Header:
 Elon Musk:  I think so.  Yes. 
 
 Joe Rogan
@@ -160,8 +158,7 @@ Why is that?
 Elon Musk
 Earthquakes are essentially a surface phenomenon.  It's like waves on the ocean.
 
-
-Prompt 3:
+Header:
 Elon Musk:  So, if there's a storm, you want to be in a submarine.  So, being in a tunnel is like being in a submarine.  Now, the way the tunnel is constructed, it's constructed out of these interlocking segments, kind of like a snake.  It's sort of like a snake exoskeleton with double seals. 
 
 Elon Musk
@@ -209,8 +206,7 @@ Okay.
 Elon Musk
 A big pit.
 
-
-Prompt 4:
+Header:
 Elon Musk:  And, you know, it's not really -- You know, they don't really care about the existential nature of a pit.  You just say like, "I want a pit. "
 
 Joe Rogan
@@ -240,8 +236,7 @@ And they just go, "Okay. " But we've joked around about this in the podcast befo
 Elon Musk
 Not the only one with a hole in the ground.
 
-
-Prompt 5:
+Header:
 
 
 Joe Rogan
@@ -331,8 +326,7 @@ We're one notch.  One notch above a chimp.
 Joe Rogan
 Some of us are a little more confused.
 
-
-Prompt 6:
+Header:
 Joe Rogan:  When I watch you doing all these things, I'm like, "How does this motherfucker have all this time, and all this energy, and all these ideas, and then people just let him do these things?"
 
 Elon Musk
@@ -401,8 +395,7 @@ Yeah.  You can probably do that right now.
 Joe Rogan
 And no one's really paying attention too much other than people like you, or people that are really obsessed with technology, all these things are happening.
 
-
-Prompt 7:
+Header:
 Joe Rogan:  And these robots are -- Do you see the one where PETA put out a statement that you shouldn't kick robots?
 
 Elon Musk
@@ -456,8 +449,7 @@ Not necessarily bad, right?
 Elon Musk
 Yes.  It's not necessarily bad.  It's just outside of human control.  Now, the thing that's going to be tricky here is that it's going to be very tempting to use AI as a weapon.  It's going to be very tempting.  In fact, it will be used as a weapon.  So, the on ramp to serious AI, the danger is going to be more humans using it against each other, I think, most likely.  That will be the danger.  Yeah.
 
-
-Prompt 8:
+Header:
 
 
 Joe Rogan
@@ -481,8 +473,7 @@ One of the things that I've been thinking about a lot over the last few years is
 Joe Rogan
 And it doesn't seem possible that people are going to pump the brakes.
 
-
-Prompt 9:
+Header:
 Joe Rogan:  It doesn't seem possible at this stage where we're constantly expecting the newest cellphone, the latest Tesla update, the newest MacBook Pro.  Everything has to be newer and better.  And that's going to lead to some incredible point.  And it seems like it's built into us.  It almost seems like it's an instinct that we're working towards this, that we like it.  Our job, just like the ants build the anthill, our job is to somehow know how fuel this. 
 
 Elon Musk
@@ -512,8 +503,7 @@ Yeah.  You get more images, more video.
 Elon Musk
 Yes.
 
-
-Prompt 10:
+Header:
 
 
 Joe Rogan
@@ -552,8 +542,7 @@ No one.  Are people more inclined to listen today? It seems like an issue that's
 Elon Musk
 Maybe they will.  So far, they haven't.  I think, people don't -- Like, normally, the way that regulations work is very slow.  it's very slow indeed.  So, usually, it will be something, some new technology.  It will cause damage or death.  There will be an outcry.  There will be an investigation.
 
-
-Prompt 11:
+Header:
 Elon Musk:  Years will pass.  There will be some sort of insights committee.  There will be rule making.  Then, there will be oversight, absolutely, of regulations.  This all takes many years.  This is the normal course of things. 
 
 Elon Musk
@@ -598,8 +587,7 @@ Ridiculous.
 Joe Rogan
 We will be like this ridiculous biological shitting, pissing thing trying to stop the gods.
 
-
-Prompt 12:
+Header:
 Joe Rogan:  "No, stop.  We're like living with a finite lifespan, and watching, you know, Norman Rockwell paintings. "
 
 Elon Musk
@@ -646,8 +634,7 @@ But what's like the ultimate? What's the idea behind that? Like, what are you tr
 Joe Rogan
 I think, best case scenario, we effectively merge with AI where AI serves as a tertiary cognition layer, where we've got the limbic system.  Kind of the, you know, primitive brain essentially.  You got the cortex.  So, you're currently in a symbiotic relationship.  Your cortex and limbic system are in a symbiotic relationship.  And, generally, people like their cortex, and they like their limbic system.  I haven't met anyone who wants to delete their limbic system or delete their cortex.
 
-
-Prompt 13:
+Header:
 Joe Rogan:  Everybody seems to like both. 
 
 Elon Musk
@@ -680,8 +667,7 @@ And which would be -- It -- But how much different than people today? Like if yo
 Elon Musk
 It will be difficult to really appreciate the difference.  It's kind of like how much smarter are you with a phone or computer than without? You're vastly smarter actually.
 
-
-Prompt 14:
+Header:
 Elon Musk:  You know, you can answer any question.  If you connect to the internet, you can answer any question pretty much instantly, any calculation, that your phone's memory is essentially perfect.  You can remember flawlessly.  Your phone can remember videos, pictures, everything perfectly.  That's the-
 
 Elon Musk
@@ -717,8 +703,7 @@ Cheers.  It is a great whiskey.
 Joe Rogan
 Thank you.
 
-
-Prompt 15:
+Header:
 Joe Rogan:  I don't know where this came.  Who brought this to us?
 
 Jaime
@@ -766,8 +751,7 @@ By the time it happens, it will be too late?
 Elon Musk
 Yeah.  I think, they didn't quite understand it, or didn't think it was near term, or not sure what to do about it.  And I said, like, you know, an obvious thing to do is to just establish a committee, government committee, to gain insight.
 
-
-Prompt 16:
+Header:
 Elon Musk:  You know, before you oversight, before you do make regulations, you should like try to understand what's going on.  And then, you have an insight committee.  Then, once they learn what's going on, you get up to speed.  Then, they can make maybe some rules or proposed some rules.  And that would be probably a safer way to go about things. 
 
 Joe Rogan
@@ -794,8 +778,7 @@ Right, but maybe companies could agree.  Maybe there could be some sort of a -- 
 Joe Rogan
 Maybe we should realize that you can't hit the switch on something that's going to be able to think for itself and make up its own mind as to whether or not it wants to survive or not, and whether or not it thinks you're a threat, or whether or not it thinks you're useless.  Like, "Why do I keep this dumb finite life form alive? Why? Why keep this thing around? It's just stupid.  It just keeps polluting everything.  It's shitting everywhere it goes, lighting everything on fire, and shooting at each other.
 
-
-Prompt 17:
+Header:
 Joe Rogan:  Why would I keep this stupid thing alive? Because, sometimes, it makes good music, you know.  Sometimes it makes great movies.  Sometimes it makes beautiful art, and sometimes -- you know.  Sometimes it's cool to hang out with.  Like with my-
 
 Elon Musk
@@ -879,8 +862,7 @@ Chimp life right now.  But we, in a way, to the AI, might be like those chimps a
 Elon Musk
 Yeah.
 
-
-Prompt 18:
+Header:
 
 
 Joe Rogan
@@ -991,8 +973,7 @@ That's it.  Mom won't bang her sons.  They're good women.
 Elon Musk
 Yeah.
 
-
-Prompt 19:
+Header:
 
 
 Joe Rogan
@@ -1072,8 +1053,7 @@ Yeah, yeah.  Yeah, we're a weird thing, you know.  And I've often wondered wheth
 Elon Musk
 Yes.
 
-
-Prompt 20:
+Header:
 Elon Musk:  I think, one of the issues with social media, it's been pointed out by many people, is that, I think, maybe particularly Instagram people look like they have a much better life than they really do. 
 
 Joe Rogan
@@ -1109,8 +1089,7 @@ Yeah, exactly.  So, I think things like that can make people quite sad just by c
 Joe Rogan
 Wasn't there a Theodore quote, that "Comparison is the thief of joy.
 
-
-Prompt 21:
+Header:
 Joe Rogan: "
 
 Elon Musk
@@ -1143,8 +1122,7 @@ My concern is not so much what Instagram is.  It's that I didn't think that peop
 Joe Rogan
 But I worry about where it goes.  Like what's the next one? What's the next one? Like, where's is it? Is it going to be augmented to some sort of a weird augmented or virtual sort of Instagram type situation where you're not going to want to live in this real world, you're going to want to interface with this sort of world that you've created through your social media page and some next level thing.
 
-
-Prompt 22:
+Header:
 
 
 Elon Musk
@@ -1204,8 +1182,7 @@ It could.  Do you entertain that?
 Elon Musk
 Well, the argument for the simulation, I think, is quite strong because if you assume any improvements at all over time, any improvement, 1%, 0. 1%, just extend the time frame, make it a thousand years, a million years.  The universe is 13. 8 billion years old.  Civilization, if you count it, if you're very generous, civilization is maybe 7000 or 8000 years old if you count it from the first writing.  This is nothing.
 
-
-Prompt 23:
+Header:
 Elon Musk:  This is nothing. 
 
 Elon Musk
@@ -1277,8 +1254,7 @@ It makes me-
 Elon Musk
 It makes me lose faith in humanity.
 
-
-Prompt 24:
+Header:
 
 
 Joe Rogan
@@ -1356,8 +1332,7 @@ Because if you're pessimistic, it's going to be miserable.
 Joe Rogan
 Yeah.  Yeah, nobody wants to be around you anyway if it's the end of the world.  You're like, "I fucking told you, bro.
 
-
-Prompt 25:
+Header:
 Joe Rogan: "
 
 Elon Musk
@@ -1447,8 +1422,7 @@ Boring?
 Elon Musk
 Mmhmm.
 
-
-Prompt 26:
+Header:
 
 
 Joe Rogan
@@ -1526,8 +1500,7 @@ Right.
 Elon Musk
 It's your perception.
 
-
-Prompt 27:
+Header:
 
 
 Joe Rogan
@@ -1578,8 +1551,7 @@ Right.  Right.  And then, we evaluate those actions to make sure that it's true.
 Elon Musk
 Well, I think there's a movement to that.  I mean, in terms of like a social movement.
 
-
-Prompt 28:
+Header:
 Elon Musk:  I think some of it's misguided, and some of it's exaggerated, and there's a lot of people that are fighting for their side out there.  But it seems like the general trend of, like, social awareness seems to be much more heightened now than has ever been in any other time in history because of our ability to express ourselves instantaneously to each other through Facebook, or Twitter, or what have you.  And that the trend is to abandon preconceived notions, abandon prejudice, abandon discrimination, and promote kindness and happiness as much as possible.  Looking at this knife? Somebody gave it to me.  Sorry. 
 
 Elon Musk
@@ -1618,8 +1590,7 @@ They should see what the Tesla can do.  He didn't -- You should -- I'll show you
 Joe Rogan
 Well, I've driven one.  I love them.
 
-
-Prompt 29:
+Header:
 
 
 Elon Musk
@@ -1703,8 +1674,7 @@ Oh, sneeze drag.
 Elon Musk
 Yeah, that's why people don't know about it.
 
-
-Prompt 30:
+Header:
 Elon Musk:  But if you have the car-
 
 Joe Rogan
@@ -1791,8 +1761,7 @@ That sounds cool.
 Elon Musk
 It's pretty fun.
 
-
-Prompt 31:
+Header:
 
 
 Joe Rogan
@@ -1876,8 +1845,7 @@ Yeah.
 Joe Rogan
 . . .  grinding of the gears and the shifting.  Something about those that's extremely satisfying even though they're not that competent.  Like I have a 1993 Porsche 964.  It's like lightweight.  It's an RS America.  It's not very fast.  It's not like in comparison to a Tesla or anything like that.  But the thing about it is like it's mechanical, you feel it.
 
-
-Prompt 32:
+Header:
 Joe Rogan:  Everything's like-
 
 Elon Musk
@@ -1976,8 +1944,7 @@ Yeah.
 Joe Rogan
 There should be like, "Wake up, fuckface.  You're endangering your fellow humans.
 
-
-Prompt 33:
+Header:
 Joe Rogan: "
 
 Elon Musk
@@ -2079,8 +2046,7 @@ Yeah.
 Elon Musk
 And, in fact, the thing that really, you know, got me to -- It's like, "Man, we better get a autopilot going and get it out. " A guy was in an early Tesla driving down the highway, and he fell asleep, and he ran over a cyclist, and killed him.  I was like, "Man, if we had autopilot, he might have fallen asleep, but, at least, he wouldn't run over that cyclist.
 
-
-Prompt 34:
+Header:
 Elon Musk: "
 
 Joe Rogan
@@ -2194,8 +2160,7 @@ Yeah, but you go -- You can have 100 levels of with bombs.
 Joe Rogan
 Jesus Christ.
 
-
-Prompt 35:
+Header:
 Joe Rogan:  I don't want to be on 99.  That would be a negative 99 floors. 
 
 Elon Musk
@@ -2255,8 +2220,7 @@ Yeah, but you can't drill deep.  It gets hot, right?
 Elon Musk
 .
 
-
-Prompt 36:
+Header:
 Elon Musk: . .  molten
 
 Joe Rogan
@@ -2376,8 +2340,7 @@ We could make this thing fly.
 Joe Rogan
 I want to go back in time.
 
-
-Prompt 37:
+Header:
 
 
 Elon Musk
@@ -2440,8 +2403,7 @@ There's just no way around that?
 Elon Musk
 There is definitely no way around it.
 
-
-Prompt 38:
+Header:
 
 
 Joe Rogan
@@ -2518,8 +2480,7 @@ It's just a hole in the ground.
 Joe Rogan
 . . .  that you drop that hole in the ground.
 
-
-Prompt 39:
+Header:
 Joe Rogan:  There's a sled on it, and the sled goes very fast, like 100 miles an hour plus. 
 
 Elon Musk
@@ -2609,8 +2570,7 @@ So, it gets it from the outside?
 Elon Musk
 Yes.
 
-
-Prompt 40:
+Header:
 
 
 Joe Rogan
@@ -2694,8 +2654,7 @@ I've thought about this quite a lot.  I've thought about this quite a lot.
 Joe Rogan
 Okay.
 
-
-Prompt 41:
+Header:
 
 
 Elon Musk
@@ -2722,8 +2681,7 @@ Well, I have a lot on my plate.
 Joe Rogan
 Right.  That's what I'm saying.
 
-
-Prompt 42:
+Header:
 Joe Rogan:  I don't know how you do what you do now, but if you keep coming up with these.  But it's got to be hard to pawn this off on someone else either, like, "Hey, go do a good job with this vertical takeoff and landing system that I want to implement to regular planes. ". 
 
 Elon Musk
@@ -2744,8 +2702,7 @@ We're taking vast amounts of carbon from deep underground and putting this in th
 Elon Musk
 So, we know that's the endpoint.  We know that.  So, why run this crazy experiment where we take trillions of tons of carbon from underground and put it in the atmosphere and oceans? This is an insane experiment.  It's the dumbest experiment in human history.  Why are we doing this? It's crazy.
 
-
-Prompt 43:
+Header:
 
 
 Joe Rogan
@@ -2811,8 +2768,7 @@ You know, we're really just -- When we -- The more carbon we take out of the gro
 Elon Musk
 Like there's a vast base of industry, vast transportation system.  Like there's Two and a half billion cars and trucks in the world.
 
-
-Prompt 44:
+Header:
 Elon Musk:  And the new car and truck production, if it was a 100% electric, that's only about 100 million per year.  So, it would take -- If you could snap your fingers and instantly turn all cars and trucks electric, it would still take 25 years to change the transport base to electric.  It makes sense because how long does a car and truck last before it goes into the junkyard and gets crushed? About 20 to 25 years. 
 
 Joe Rogan
@@ -2830,8 +2786,7 @@ I mean, I don't know any serious scientist, actually zero, literally zero who do
 Elon Musk
 But with cars, there's definitely a better way with electric cars.
 
-
-Prompt 45:
+Header:
 Elon Musk:  And to generate the energy, do so with photovoltaics because we've got a giant nuclear reactor in the sky called the sun.  It's great.  It sort of shows up every day, very reliable.  So, if you can generate energy from solar panels, store up with batteries, you can have energy 24 hours a day. 
 
 Elon Musk
@@ -2870,8 +2825,7 @@ Is that right now? Like have you driven one 600 miles now?
 Elon Musk
 No.  We could totally make one right now that would do 600 miles, but the thing is too expensive.
 
-
-Prompt 46:
+Header:
 Elon Musk:  So, like the car's got to-
 
 Joe Rogan
@@ -2931,8 +2885,7 @@ That E type?
 Joe Rogan
 Yeah, the Jaguar E type with a giant long hood, that could be a giant solar panel.
 
-
-Prompt 47:
+Header:
 
 
 Elon Musk
@@ -3001,8 +2954,7 @@ Yeah, we made our battery waterproof, so that doesn't happen.  Actually-
 Joe Rogan
 Smart move.
 
-
-Prompt 48:
+Header:
 
 
 Elon Musk
@@ -3113,8 +3065,7 @@ They did it as well?
 Joe Rogan
 They do a lot of their -- They do some of their driver training school on these frozen surfaces.
 
-
-Prompt 49:
+Header:
 Joe Rogan:  So, you're just -- The car is going sideways whether you like it or not.  And you have to learn how to slide into corners, and how do we test. 
 
 Elon Musk
@@ -3156,8 +3107,7 @@ Yes.  The-
 Joe Rogan
 Or on board.
 
-
-Prompt 50:
+Header:
 Joe Rogan:  Fuck motors.  Dude, fuck regular motors. 
 
 Elon Musk
@@ -3211,8 +3161,7 @@ This is a real thing that happened.
 Joe Rogan
 Someone that's a lawyer that thought that through in front of his laptop before he wrote that up.
 
-
-Prompt 51:
+Header:
 
 
 Elon Musk
@@ -3308,8 +3257,7 @@ Elon Musk
 Joe Rogan
 It's dark.
 
-
-Prompt 52:
+Header:
 
 
 Elon Musk
@@ -3384,8 +3332,7 @@ Elon Musk
 Joe Rogan
 I couldn't agree more.  I think there's also an issue with one of the things that happens with police officers, prosecutors, and anyone that's trying to convict someone or arrest someone is that it becomes a game.
 
-
-Prompt 53:
+Header:
 Joe Rogan:  And in games, people want to win. 
 
 Elon Musk
@@ -3421,8 +3368,7 @@ Yeah,
 Elon Musk
 Like the millionth, well, one in a million of evil is so evil, people cannot even conceive of it.  But there's 330 million people in the United States.
 
-
-Prompt 54:
+Header:
 Elon Musk:  So, that's 330 people out there somewhere.  But by the same token, there's also 330 people who are incredible angels and unbelievably good human beings. 
 
 Joe Rogan
@@ -3479,8 +3425,7 @@ I mean, here are these weapons but how many times, like, nobody's presumably try
 Joe Rogan
 Nobody yet.
 
-
-Prompt 55:
+Header:
 
 
 Elon Musk
@@ -3606,8 +3551,7 @@ Yeah.
 Elon Musk
 Yeah.  I kind of like Texas actually.
 
-
-Prompt 56:
+Header:
 
 
 Joe Rogan
@@ -3688,8 +3632,7 @@ There's no incentive for them to be good at science.
 Elon Musk
 There isn't.  Actually, you know, they're pretty good at science in China, I have to say.
 
-
-Prompt 57:
+Header:
 
 
 Joe Rogan
@@ -3749,8 +3692,7 @@ Okay.
 Joe Rogan
 Samsung is number one.  Huawei is number two.  Apple is now number three.  They surpassed Apple as number two.  And the idea is that this is all taking place without them having any foothold whatsoever in America.
 
-
-Prompt 58:
+Header:
 Joe Rogan:  There's no carriers that have their phones.  You have to buy their phones unlocked through some sort of a third party, and then put-
 
 Elon Musk
@@ -3795,8 +3737,7 @@ Yeah.
 Joe Rogan
 But, also, what we will be.  This will be so much different.
 
-
-Prompt 59:
+Header:
 Joe Rogan:  Our concerns about money, about status, about where all of these things will seemingly go by the wayside if we really become enlightened, if we really become artificially enlightened by some sort of an AI interface where we have this symbiotic relationship with some new internet type connection to information? But, you know, what happens then? What is important? What is not important? Is privacy important when we're all gods?
 
 Elon Musk
@@ -3853,8 +3794,7 @@ She's not happy about it, but she's-
 Joe Rogan
 No.
 
-
-Prompt 60:
+Header:
 
 
 Elon Musk
@@ -3935,8 +3875,7 @@ Yeah, by the skin of their teeth.  That is interesting, right?
 Elon Musk
 Same with Tesla, we barely survived.
 
-
-Prompt 61:
+Header:
 
 
 Joe Rogan
@@ -4002,8 +3941,7 @@ But the last was 7%.  So, that's basically-
 Elon Musk
 Every body panel is different.  The entire structure was different.  We couldn't use the, like, the HVAC system, the air conditioner.  It was belt-driven air conditioner.
 
-
-Prompt 62:
+Header:
 Elon Musk:  So, now, we needed something that was electrically driven.  We need a new AC compressor. 
 
 Joe Rogan
@@ -4077,8 +4015,7 @@ Really?
 Elon Musk
 Yeah.
 
-
-Prompt 63:
+Header:
 
 
 Joe Rogan
@@ -4195,8 +4132,7 @@ Yeah.
 Elon Musk
 Yeah, I agree.
 
-
-Prompt 64:
+Header:
 
 
 Joe Rogan
@@ -4295,8 +4231,7 @@ Didn't you come up with some crazy tiles for your roof that are solar paneled?
 Elon Musk
 Yeah, yeah.  I have it on my roof right now actually.  I'm just trying it out.  The thing is it takes a while to test roof stuff because roofs have to last a long time.
 
-
-Prompt 65:
+Header:
 
 
 Joe Rogan
@@ -4380,8 +4315,7 @@ That's amazing.  Oh, that looks good.
 Elon Musk
 Yeah.
 
-
-Prompt 66:
+Header:
 
 
 Joe Rogan
@@ -4462,8 +4396,7 @@ Right.
 Elon Musk
 You know, like if you could hook that into the car, like manage you coming home.
 
-
-Prompt 67:
+Header:
 Elon Musk:  Like there's no point cooling the home-
 
 Joe Rogan
@@ -4544,8 +4477,7 @@ Yeah.
 Elon Musk
 . . .  you know, it's just got a weight in the watch.  And as you move your wrist, the way it moves from one side to the other, and it winds the watch up.
 
-
-Prompt 68:
+Header:
 Elon Musk:  That's a pretty cool thing. 
 
 Joe Rogan
@@ -4617,9 +4549,8 @@ Yeah.
 Jaime
 I mean, the whole luxury watch market is fascinating.  I'm not that involved in terms -- Like I don't buy them.  I've bought them as gifts.  I don't buy them for myself.
 
-
-Prompt 69:
-Elon Musk:  But when I look at them online, there's a million dollar watches out there now that are like they have like a little rotating moons and stars. 
+Header:
+Jaime:  But when I look at them online, there's a million dollar watches out there now that are like they have like a little rotating moons and stars. 
 
 Elon Musk
 Yeah. 
@@ -4696,8 +4627,7 @@ My phone tells the time.  So-
 Joe Rogan
 That's a good point.
 
-
-Prompt 70:
+Header:
 Joe Rogan:  Well, if you lose your phone? Do you -- Wait, hold on. 
 
 Elon Musk
@@ -4790,8 +4720,7 @@ Yeah.  I think I tried one once.
 Joe Rogan
 Come on, man.
 
-
-Prompt 71:
+Header:
 Joe Rogan:  You probably can't because of stockholders, right?
 
 Elon Musk
@@ -4857,8 +4786,7 @@ The wheels do.
 Elon Musk
 Yeah, yeah.  They work pretty well.  Decelerated at, you know, 1. 1 to 1. 2 Gs, that kind of thing.
 
-
-Prompt 72:
+Header:
 
 
 Joe Rogan
@@ -4918,8 +4846,7 @@ They might not like it.
 Joe Rogan
 Do you ever stop and think about your role in civilization? Do you ever stop and think about your role in the culture? Because me, as a person, who never met you until today, when I think of you, you know, I've always thought of you as being this weirdo super inventor dude who just somehow or another keeps coming up with new shit, but there's not a lot of you out there.  Like everybody else seems to be -- I mean, obviously, you make a lot of money, and there's a lot of people that make a lot of money.
 
-
-Prompt 73:
+Header:
 Joe Rogan:  You like that clock?
 
 Elon Musk
@@ -5006,8 +4933,7 @@ Okay, wow.
 Joe Rogan
 Like where I've woken up, and it's in the same dream.  I'm in the same dream.  And in this dream, it's 1940s, 1950s, but everyone is severely advanced.  There's flying blimps with like LCD screens in the side of them.  And everything is bizarre and strange.
 
-
-Prompt 74:
+Header:
 Joe Rogan:  And it stuck with me for whatever -- Obviously, this is just a stupid dream.  But for whatever reason, all these years, that stuck with being.  Like it takes one man, like Nikola Tesla, to have more than a hundred inventions that were patents, right.  I mean, he had some-
 
 Elon Musk
@@ -5076,8 +5002,7 @@ Okay.
 Joe Rogan
 Yeah.  Just give you a little bit of sleep, a little bit of perspective.  It's magnesium that you get from the water as well that makes you sleep easier because the water has Epsom salts in it.
 
-
-Prompt 75:
+Header:
 Joe Rogan:  But may be some sort of strategy for sacrificing your -- or not sacrificing but enhancing your biological recovery time by figuring out a way whether it's through meditation or some other ways to shut off that thing at night.  Like you must have like a constant stream of ideas that's running through your head all the time.  You're getting text messages from chicks. 
 
 Elon Musk
@@ -5140,8 +5065,7 @@ Yeah.  I mean, I would imagine that for someone like you, it's not.  For someone
 Elon Musk
 Yeah.  It's more like the opposite of a cup of coffee.
 
-
-Prompt 76:
+Header:
 
 
 Joe Rogan
@@ -5240,8 +5164,7 @@ Joe Rogan
 Elon Musk
 Yes.
 
-
-Prompt 77:
+Header:
 
 
 Joe Rogan
@@ -5298,8 +5221,7 @@ So, they weren't expressing it.  They weren't talking about it all day.  And you
 Elon Musk
 No.  It was just strange.  It was like, "Hmm, kind of strange. " That was my conclusion, kind of strange.
 
-
-Prompt 78:
+Header:
 
 
 Joe Rogan
@@ -5374,8 +5296,7 @@ There probably is.  There's probably two million.  I mean, I think that's the ca
 Elon Musk
 Yeah.  I mean, but, like, you know, my goal is like try to do useful things, try to maximize the probability for the future's good, make the future exciting, something you look forward to, you know.
 
-
-Prompt 79:
+Header:
 Elon Musk:  You know, with Tesla, I want to try to make things that people love.  Like, how do you think you could buy that you really love, that really give you joy? So rare, so rare.  I wish there were more things.  That's what we try to do.  Just make things that somebody loves. 
 
 Joe Rogan
@@ -5414,8 +5335,7 @@ Yes.
 Joe Rogan
 . . .  and the solar system itself.
 
-
-Prompt 80:
+Header:
 Joe Rogan:  But even though it's possibly -- You know, I mean, how long do they feel like the sun and the solar system is going to exist? How many hundreds of millions of years?
 
 Elon Musk
@@ -5487,8 +5407,7 @@ I mean, over time.
 Elon Musk
 It wouldn't be easy but yes.
 
-
-Prompt 81:
+Header:
 
 
 Joe Rogan
@@ -5581,8 +5500,7 @@ It would be great.
 Elon Musk
 Yeah, we should do that.
 
-
-Prompt 82:
+Header:
 
 
 Joe Rogan
@@ -5654,8 +5572,7 @@ I mean, the vast number of negative comments, for the vast majority, I just igno
 Joe Rogan
 Yeah.
 
-
-Prompt 83:
+Header:
 
 
 Elon Musk
@@ -5715,8 +5632,7 @@ Yeah.  Well, it's this thing where there's a lack of compassion.  It's a lack of
 Elon Musk
 Yeah.
 
-
-Prompt 84:
+Header:
 
 
 Joe Rogan
@@ -5796,5 +5712,4 @@ Cheers.  Thank you.  Is there any message you would like to put out other than l
 
 Elon Musk
 No.  I think, you know, I think people should be nicer to each other, and give more credit to others, and don't assume that they're mean until you know they're actually mean.
-
 

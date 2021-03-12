@@ -5,10 +5,28 @@ import re, operator
 import numpy as np
 
 # local imports
+from cli_args import args
 
 ## utils
 sentence_flatten = lambda t: [word for item in t for word in item.split(" ")]
 flatten = lambda t: [item for sublist in t for item in sublist]
+parsed_file_name = lambda x: f"parsed_{x.lower().replace(' ', '-').replace('.docx', '.txt')}"
+
+def write_output_file(prompts, file_name=''):
+    if file_name == '':
+        with open(os.path.normpath(args.output), "w") as f1:
+            for i, p in enumerate(prompts):
+                f1.write(f"Header:\n")
+                f1.write(p)
+                f1.write("\n\n")
+    else:
+        file_name = file_name.split("""\\""")[1]
+        with open(os.path.join(args.output, parsed_file_name(file_name)), 'w') as f1:
+            for p in prompts:
+                f1.write(f"Header:\n")
+                f1.write(p)
+                f1.write("\n\n")
+
 
 
 def unique(list1):
@@ -39,16 +57,13 @@ def find_speakers(lines):
 
     returns: a list of distinct speakers in podcast
     """
-    colon_pattern = r"([A-Z][A-z]+\s[A-Z][A-z]+):"
-    newline_pattern = r"\n([A-Z][A-z]+ [A-Z][A-z]+)\n"
+    gen_pattern = r"(\n[A-z]+(\n|:)?\s?(([A-Z][A-z]+)?)(\n+|:))"
 
     strr = " ".join(sentence_flatten(lines))
 
-    colon_matches = re.findall(colon_pattern, strr)
-    newline_matches = re.findall(newline_pattern, strr)
+    gen_matches = [x[0].strip() for x in list(re.findall(gen_pattern, strr))]
 
-    return list(unique(colon_matches)) + list(unique(newline_matches))
-
+    return list(unique(gen_matches))
 
 def find_last_speaker(prompt, speakers):
     speak_dict = {}
@@ -59,7 +74,7 @@ def find_last_speaker(prompt, speakers):
     return max(speak_dict.items(), key=operator.itemgetter(1))[0]
 
 
-def make_prompts(txt_file, LIMIT=350):
+def make_prompts(txt="", txt_file="", LIMIT=350):
     """
     function takes in a file and a word limit for each prompts
 
@@ -67,13 +82,18 @@ def make_prompts(txt_file, LIMIT=350):
     parses by sentences and count words by seperating
     the text in each space character.
     """
-    # read transcript from file
-    with io.open(txt_file, "r", encoding="utf-8") as fil:
-        timestamp_regex = re.compile(r"[0-9]+:[0-9]+:?[0-9]+", flags=re.IGNORECASE)
-        lines = fil.read().replace("\ufeff", "")
+    if txt == "":
+        # read transcript from file
+        with io.open(txt_file, "r", encoding="utf-8") as fil:
+            timestamp_regex = re.compile(r"[0-9]+:[0-9]+:?[0-9]+", flags=re.IGNORECASE)
+            lines = fil.read().replace("\ufeff", "")
 
-        lines = timestamp_regex.sub("", lines).split(".")
+            lines = timestamp_regex.sub("", lines).split(".")
     # .repalce('\n') does GTP3 have some sort of preference with newlines?
+
+    elif txt_file == "":
+        lines = str(txt).replace("\ufeff", "").split(".")
+
     speakers = find_speakers(lines)
 
     # # initialize empty variables to be used in the loop

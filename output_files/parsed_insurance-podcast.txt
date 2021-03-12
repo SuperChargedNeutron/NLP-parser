@@ -1,0 +1,200 @@
+Header:
+Donelly: Janine Donelly
+
+Hello everyone and welcome to EY’s IFRS 17 podcast series.  A series that brings you all the news and views on IFRS 17, the new International Accounting Standard on Insurance Contracts.  My name is Janine Donelly and I’m in EY’s Performance Improvement team based in Melbourne, working with many clients in Oceania on IFRS 17 implementations.  Throughout this podcast series we’ll be talking to a number of EY’s global insurance professionals to discuss key topics and interpretative issues in IFRS 17, and to consider the implementation approaches and challenges the new standard presents. 
+
+In today’s episode we will discuss IFRS 17 vendor solutions assessments with Martyn van Wensveen, our Asia-Pacific IFRS 17 leader based in Hong Kong, and a specialist in the data, system and process implications of the standard. 
+
+Hello Martyn and welcome!
+
+Martyn van Wensveen
+
+Thanks Janine, I am happy to join you today. 
+
+Donelly 
+
+In our previous podcasts, we gained a lot of insight on what insurers need to think about from a data, systems and processes perspective and how to effectively run an IFRS 17 implementation program tailored to an insurer’s needs.  Now that most insurers have their IFRS 17 implementation programs in place, a key initial consideration will be how to best design and implement a cost effective but robust IFRS 17 solution. 
+
+Martyn, one of the questions I am frequently asked is whether companies should appoint a vendor to support their IFRS 17 solution or whether it would be more cost effective to build the solution themselves.   Do you have any thoughts on that?
+
+van Wensveen
+
+Thanks Janine.  There are obviously pros and cons to both approaches and the decision whether to appoint a vendor or to build a solution in-house will depend on a range of considerations specific to the insurer. 
+
+The key benefit an off-the-shelf-solution brings is a standardized end-to-end model that can be used as a strong base for tailoring to the individual insurer.   Building the solution in-house requires additional effort and careful planning, particularly during the design phase, to ensure the solution is fit for purpose.
+
+Header:
+
+
+Donelly
+
+I like the idea of a standardized solution, but you mentioned that the off-the-shelf solutions also require some tailoring.   If that’s the case, wouldn’t insurers be better to build their own solution?  It would save the cost of appointing a vendor and they could fully tailor the solution to their needs?
+
+van Wensveen 
+
+Sure Janine, but there are a number of other advantages to using an already existing third-party vendor solution. 
+
+Firstly, vendor solutions provide a well-controlled environment designed specifically for IFRS 17 data management.   The requirements of IFRS 17 are complex, as we’ve discussed in previous podcasts, and a well-controlled environment with a full reconciliation framework and an accounting engine that is capable of creating the right journal entries is critical to an efficient financial reporting close process.  Vendor sub ledger solutions are also mostly system agnostic and can therefore be linked to existing systems like policy administration systems, premiums and claims systems as well as actuarial modelling systems and the general ledger.  Designing a robust and well controlled process in-house is of course possible, but it must be done “from scratch”, so to speak, and so presents a much bigger challenge and also comes with a delivery risk given the short timeframe left to implement IFRS 17 before 2022. 
+
+Secondly, appointing a vendor means that the insurer will have access to system support, product upgrades and training for their staff.   Many vendors also offer cloud based hosting for their solutions.   Self-building introduces some risk in that the insurer will not necessarily have the technical support for future maintenance and knowledge sharing. 
+
+Finally, while there is a cost to appointing a third-party vendor, building the solution in-house will require the organization to leverage their current actuarial, data management and accounting systems.  This approach will yield a bespoke solution that is fit for an individual insurer’s needs.  One downside is that self-build can be time consuming and expensive as the project draws in resources from across the business and represents a complex task.
+
+Header:
+van Wensveen:   This cost may eventually exceed the cost of appointing a third-party vendor over the long term and the project risk and ultimately the delivery risk will generally be higher.  This is because many vendor solutions have been, or are in the process of being, implemented in a number of organizations across the globe and so they have been tested and improved over several months, while an in-house solution will generally be untested. 
+
+Donelly
+
+That’s good food for thought Martyn, and as you say, the complex data requirements of IFRS 17 certainly make the third-party solutions an attractive proposition.  So, let’s say I want to look at an off-the -shelf vendor solution – what am I getting and what functionality do they provide?
+
+van Wensveen
+
+Well Janine, there are a number of different solution options, but broadly they fall into two categories:
+
+1.        Actuarial based solutions, and
+
+2.        Sub-ledger solutions
+
+Donelly 
+
+Okay, so can you take us through each of those Martyn?
+
+van Wensveen
+
+Certainly Janine.  
+
+Firstly, let’s discuss actuarial based solutions.    Actuarial models will be required to produce fulfilment cash flows and claims reserves and so can be extended to produce other IFRS 17 variables such as the contractual service margin (the CSM) and risk adjustment for non-financial risk.  
+
+By performing as much of the granular calculations and aggregation as possible in the actuarial system, insurers can minimise the amount of detail required in the general ledger itself.   One key consideration with actuarial based solutions is that may need to purchase some software in addition to the core actuarial model from the vendor to manage the data and assumptions outside of the actuarial models in a well-controlled environment.  
+
+Donelly 
+
+Okay sure, I agree that a lot of the detailed calculation can be performed in the actuarial system, but the actuarial system can’t replace the accounting posting engine as well as host the chart of accounts to ultimately feed into the general ledger.
+
+Header:
+Donelly:   Even with an actuarial based solution I expect that you need to upgrade or even replace your accounting posting engine as well as the chart of accounts in the general ledger will require a major overhaul for IFRS 17. 
+
+van Wensveen 
+
+That’s right Janine, and that’s where sub-ledger solutions can play a role.   Sub-ledger systems can be used to sit between the actuarial system and the general ledger.   They are able to take cash flow information from the actuarial system and actual cash flows from other source systems such as premium, claim or expense systems and perform both, the granular CSM calculations and the detailed accounting posting rules and aggregation which can then be input into the general ledger.  
+
+Sub-ledger systems can provide “the best of both worlds” in that they provide a robust control environment for both the CSM calculations and accounting.  The sub-ledger can also store data at a very granular level to allow insurers to really drill into the drivers of their profitability.  Most sub-ledger solution offer a so called “Financial Cockpit” where insurers can analyze their business on a much more granular level compared to the information stored in the general ledger.  This has the added benefit that tailored management reporting can be performed using the sub ledger. 
+
+Donelly 
+
+Thanks Martyn.   So how can insurers identify a solution that best suits their needs for their IFRS 17 conversion?
+
+van Wensveen 
+
+Well, there are a lot of solutions available out there, and they all have different strengths and weaknesses.  The key for insurers is to develop an approach that considers their desired target state and what they need to achieve that target state.   This ensures that they can effectively identify a solution that is fit for their purpose.
+
+Header:
+
+
+Donelly
+
+So essentially you want to work backwards with the target state in mind, is that right? I expect that deciding on what defines that target state is a challenge in and of itself, with considerations around granularity of analysis an insurer needs, the time taken to produce results and the number of resources needed to complete the financial reporting process.  And of course, the cost of implementation and ongoing maintenance costs are an ever-present consideration for insurers. 
+
+van Wensveen
+
+That’s exactly right, and those key considerations will influence the direction an insurer takes in forming a solution.  Understanding how achievable the goals of the target state really are requires an assessment of the current capabilities of the end-to-end reporting process. 
+
+Donelly 
+
+Are you able to provide some examples of the major areas on which insurers should focus in the current state assessment?
+
+van Wensveen
+
+A good place to start would be to understand the current data flows between the policy administration systems, claim systems, actuarial models, data stores, and accounting systems.  These data flows will underpin the amount of work required to source, map or combine what is needed to meet the more granular accounting requirements of IFRS 17. 
+
+Following on from data flows, an assessment should be completed on the current data management capabilities of the organization.  The more sophisticated and flexible the current capabilities are, the less likely it is that IFRS 17 will require a significant overhaul of the insurer’s IT and data storage systems.  Major changes to these systems will add complexity, risk and estimated time for implementation to the process. 
+
+Another area that will require an assessment is the specific output requirements of the insurer.  All insurers are different and the output requirements from the actuarial and accounting systems will vary across the industry.  This is especially relevant as the level of aggregation and number of cohorts can vary greatly.
+
+Header:
+van Wensveen: 
+
+Finally, an understanding of the current system limitations will be beneficial in determining which systems could be completely transformed and which only require minor alterations to be effectively used as part of the to be IFRS 17 system architecture.  IFRS 17 may provide an opportunity to fund particular system overhauls or processes that are in need of some extra attention. 
+
+Of course, the above is not an exhaustive list but should be relevant for most insurers. 
+
+Donelly
+
+Thanks Martyn.  I agree that insurers shouldn’t underestimate the change in data, processes and systems that transition to IFRS 17 will require.   It is especially important to examine all aspects of the financial close process to understand what needs to be done to produce a set of IFRS 17 compliant financial statements. 
+
+Once we have assessed the current state landscape it is important to clearly define how the target future state looks like and to develop a roadmap to get there.   We discussed the target state and roadmap in the fifth podcast in this series.   
+
+van Wensveen
+
+That’s right, we did Janine
+
+Donelly
+
+So, once we’ve decided on the future target state for the financial close process and developed our roadmap to get there, how can we understand the best way to get there and assess the relative merits of the available options?
+
+van Wensveen
+
+There are a number of IFRS 17 sub-ledger options out in the market at the moment with some in more advanced stages of development and experience than others.  The different vendors are also offering different approaches to solving the IFRS 17 requirements, such as actuarial based solutions or sub-ledgers as we have discussed. 
+
+There are pros and cons for each of the IFRS 17 vendor solutions available out there, but they should be taken in the context of the goals of the insurer, the desired target state and what the current state is capable of.  The vendor solutions vary in their approach, capabilities, flexibility and cost.  So, what works for one insurer may not be suitable for another.
+
+Header:
+
+
+Donelly
+
+With so much to consider, how does an insurer pick the vendor that will suit them best?
+
+van Wensveen
+
+I would suggest that an insurer start by establishing some key grading criteria based on the working assumptions, design principles, and target end state in mind.  This will aid the insurer in understanding which vendor solution is the best fit for the organization.  If time allows, selecting more than a few vendors initially will help the insurer gauge the different options out in the market. 
+
+Requests for Information (RFIs), can be requested by each of the vendors asking them a set of specific technical and functional questions that pertain to the business.  Along with the RFI, vendor presentations can be held to help the insurer gain more insight into the solution itself and the people behind them.  The above can then be scored or graded using the insurer’s criteria where the list of potential candidates can be refined. 
+
+Donelly 
+
+So, what are the sorts of things that insurers should be looking out for when assessing vendors?
+
+van Wensveen 
+
+There are a number of criteria that can be used, and the weighting given to each may vary depending on the insurer’s specific requirements.  Seven key criteria that I often use are:
+
+1.        Functional fit – can the solution meet the key functional actuarial, accounting and reporting requirements for IFRS 17, within the required reporting timeframes for local statutory reporting?
+
+2.        Technical fit – can the solution meet the key technical requirements including alignment to existing architecture, desired system performance and scalability, desired system sizing, and ETL capabilities?
+
+3.        Solution readiness – will the solution be able to meet the regulatory deadline for IFRS 17?
+
+4.        Geographic presence, solution support and capability – does the vendor have the local support infrastructure in place?
+
+5.        Implementation approach and alliances – can the vendor provide a robust approach and methodology during the implementation stage to minimise the risk? Does the vendor have any alliances with system implementation partners?
+
+6.
+
+Header:
+van Wensveen:        Indicative cost to implement – is the solution cost effective including one-off licence fee, yearly renewal licence fee, system implementation costs, infrastructure costs, and ongoing maintenance costs?
+
+7.       Credentials – does the vendor have a track record with proven solutions and technologies and geographic presence?
+
+Donelly 
+
+That’s very useful Martyn.  And I guess once there is a shortlist of potential candidates, both parties can move onto a proof of concept stage where the solution can be tested with a sample of the insurer’s data as a final check of suitability before a full roll out of the solution is performed. 
+
+van Wensveen
+
+That’s right Janine, and that’s where project planning is critical for a successful implementation.   Once the proof of concept is completed we’d usually suggest a phased approach with broad project stages covering initial planning and scoping, core design, iterative build-test-and deploy phases, systems integration testing, user acceptance testing and post implementation support. 
+
+Roles would be allocated for each phase and workstream and these would generally be split between the vendor and the insurer.   In most cases, vendors will also suggest that an insurer select a system integrator such as EY that will work with the vendor in order to manage the implementation program.  A system integrator will need to be trained on the vendors system, but will also be able to assist with project management. 
+
+Donelly 
+
+Thanks Martyn, so we already knew that IFRS 17 implementation programs are going to be complex and will involve extensive planning and commitment from a variety of stakeholders.  I guess it’s therefore important that insurers need to ensure they allow enough time for all the decisions to be made and resources to be acquired. 
+
+van Wensveen
+
+That’s right Janine.   As IFRS 17 is impacting the global insurance industry, the issue of resourcing is real as if there are a large number of implementation programs operating concurrently, the resource pool will be depleted.  Understanding the resourcing requirements for your implementation program is a key piece of information. 
+
+Donelly
+
+Thanks Martyn, that’s been very insightful.
+

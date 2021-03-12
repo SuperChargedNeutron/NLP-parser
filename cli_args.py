@@ -2,7 +2,8 @@ import argparse
 
 
 def rename_input_file(file_name):
-    return  f"parsed_{x.replace(' ', '_').lower()}.txt"
+    return f"parsed_{x.replace(' ', '_').lower()}.txt"
+
 
 # set up the argument parser
 parser = argparse.ArgumentParser()
@@ -23,7 +24,7 @@ parser.add_argument(
     "--output",
     type=str,
     help="This is a required flag. Tell the program where to save output files.",
-    required=True
+    required=True,
 )
 parser.add_argument(
     "-wl",
