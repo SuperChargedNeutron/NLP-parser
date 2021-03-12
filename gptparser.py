@@ -7,12 +7,13 @@ import docx2txt
 # local imports
 from func import make_prompts, write_output_file
 from cli_args import args
+# from openai_api import openai
 
 # decide between file flow and directory flow
 if args.file:
     if ".doc" in args.file:
         txt = docx2txt.process(os.path.normpath(args.file))
-        
+
         # get prompts parsed from file and print text to out put file
         prompts = make_prompts(txt=txt, LIMIT=args.wlimit)
         write_output_file(prompts)
@@ -24,18 +25,17 @@ if args.file:
 
 elif args.directory:
 
-    for file_name in glob.iglob(f'{args.directory}/*'):
+    for file_name in glob.iglob(f"{args.directory}/*"):
         if ".doc" in file_name:
             txt = docx2txt.process(os.path.normpath(file_name))
-            
+
             # get prompts parsed from file and print text to out put file
             prompts = make_prompts(txt=txt, LIMIT=args.wlimit)
             write_output_file(prompts, file_name=file_name)
 
         elif ".txt" in file_name:
             # get prompts parsed from file and print text to out put file
-            prompts = make_prompts(txt_file=os.path.normpath(file_name), LIMIT=args.wlimit)
+            prompts = make_prompts(
+                txt_file=os.path.normpath(file_name), LIMIT=args.wlimit
+            )
             write_output_file(prompts, file_name=file_name)
-
-
-

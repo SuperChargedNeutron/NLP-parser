@@ -10,10 +10,21 @@ from cli_args import args
 ## utils
 sentence_flatten = lambda t: [word for item in t for word in item.split(" ")]
 flatten = lambda t: [item for sublist in t for item in sublist]
-parsed_file_name = lambda x: f"parsed_{x.lower().replace(' ', '-').replace('.docx', '.txt')}"
+parsed_file_name = (
+    lambda x: f"parsed_{x.lower().replace(' ', '-').replace('.docx', '.txt')}"
+)
+unique = lambda list1: np.unique(np.array(list1))
 
-def write_output_file(prompts, file_name=''):
-    if file_name == '':
+
+def write_output_file(prompts, file_name=""):
+    """
+    turn parsed prompts into readable text files
+
+    input is parsed paragraphs from the text
+
+    does not return anything
+    """
+    if file_name == "":
         with open(os.path.normpath(args.output), "w") as f1:
             for i, p in enumerate(prompts):
                 f1.write(f"Header:\n")
@@ -21,17 +32,11 @@ def write_output_file(prompts, file_name=''):
                 f1.write("\n\n")
     else:
         file_name = file_name.split("""\\""")[1]
-        with open(os.path.join(args.output, parsed_file_name(file_name)), 'w') as f1:
+        with open(os.path.join(args.output, parsed_file_name(file_name)), "w") as f1:
             for p in prompts:
                 f1.write(f"Header:\n")
                 f1.write(p)
                 f1.write("\n\n")
-
-
-
-def unique(list1):
-    x = np.array(list1)
-    return np.unique(x)
 
 
 def get_prompt_length(p):
@@ -65,7 +70,15 @@ def find_speakers(lines):
 
     return list(unique(gen_matches))
 
+
 def find_last_speaker(prompt, speakers):
+    """
+    Take in the prompt that is being cut off and find the last speaker in the paragraph
+
+    Takes in the prompt itself and a list of speakers
+
+    Returns the last speaker that shoes up in the prompt
+    """
     speak_dict = {}
     for s in speakers:
         if s in prompt:
