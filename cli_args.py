@@ -33,5 +33,6 @@ parser.add_argument(
     default=350,
     help="If not provided the default is 350 words. Please input a NUMBER(int) to limit the word count in each prompt",
 )
+parser.add_argument()
 
 args = parser.parse_args()

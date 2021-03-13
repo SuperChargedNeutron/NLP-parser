@@ -38,6 +38,19 @@ def write_output_file(prompts, file_name=""):
                 f1.write(p)
                 f1.write("\n\n")
 
+def write_output_file(prompts, file_name):
+    """
+    turn parsed prompts into readable text files
+
+    input is parsed paragraphs from the text
+
+    does not return anything
+    """
+    with open(os.path.normpath(file_name), "w") as f1:
+        for p in prompts:
+            f1.write(f"Response:    {p}")
+            f1.write("\n\n")
+
 
 def get_prompt_length(p):
     """
@@ -143,6 +156,6 @@ def make_prompts(txt="", txt_file="", LIMIT=350):
         else:
             last_s = find_last_speaker(prompts[i - 1], speakers)
 
-            prompts[i] = f"{last_s}: {p}"
+            prompts[i] = f"{last_s} {p}"
 
     return prompts
