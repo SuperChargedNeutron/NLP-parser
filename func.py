@@ -7,7 +7,7 @@ import numpy as np
 # local imports
 from cli_args import args
 
-## utils
+## lambda utils
 sentence_flatten = lambda t: [word for item in t for word in item.split(" ")]
 flatten = lambda t: [item for sublist in t for item in sublist]
 parsed_file_name = (
@@ -191,3 +191,7 @@ def parse_file(txt="", txt_file="", LIMIT=350):
 
     with open(os.path.normpath(args.prompt), 'r') as in_file:
         prompt = in_file.read()
+
+    fragments = [f"{prompt} {f}" for f in fragments]
+
+    return fragments
