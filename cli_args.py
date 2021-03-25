@@ -1,10 +1,5 @@
 import argparse
 
-
-def rename_input_file(file_name):
-    return f"parsed_{x.replace(' ', '_').lower()}.txt"
-
-
 # set up the argument parser
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -23,8 +18,8 @@ parser.add_argument(
     "-o",
     "--output",
     type=str,
+    default="output_files/default_output.csv",
     help="This is a required flag. Tell the program where to save output files.",
-    required=True,
 )
 parser.add_argument(
     "-wl",
@@ -33,6 +28,11 @@ parser.add_argument(
     default=350,
     help="If not provided the default is 350 words. Please input a NUMBER(int) to limit the word count in each prompt",
 )
-parser.add_argument()
+parser.add_argument(
+    "-p",
+    "--prompt",
+    type=str,
+    help="This is where you specify the file path containing the prompt to the API call to give desired response",
+)
 
 args = parser.parse_args()
