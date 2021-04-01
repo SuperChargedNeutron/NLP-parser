@@ -41,45 +41,6 @@ def write_output_file(fragments, file_name=""):
                 f1.write(f)
                 f1.write("\n\n\n\n")
 
-
-def write_response_csv(responses):
-    """
-    Inputs the responses from GPT3 into a spreadsheet
-
-    Where each file makes up one column, and each cell below
-    represents the response for each fragment
-
-    does not return anything
-    """
-    if os.path.exists(args.output):
-        with open(os.path.normpath(args.output), "a") as out_file:
-            writer = csv.writer(out_file, delimiter=",", quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(responses)
-    else:
-        os.makedirs("/".join(args.output.split("/")[:-1]))
-
-        with open(os.path.normpath(args.output), "w+") as out_file:
-            writer = csv.writer(out_file, delimiter=",", quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(responses)
-
-
-def api_requests(fragments):
-    """
-    This function takes a list of parsed documents
-    The whole list is one file
-
-    Returns a list of all response texts in the same order as the
-        parsed file
-    """
-    responses = []
-
-    for f in fragments:
-        resp = openai.Completion.create(engine="davinci", prompt=f, max_tokens=100)
-        responses.append(resp["choices"][0]["text"])
-
-    return responses
-
-
 def get_fragment_length(p):
     """
     This function will receive a list of sentences.
@@ -195,3 +156,43 @@ def parse_file(txt="", txt_file="", LIMIT=350):
     fragments = [f"{prompt} {f}" for f in fragments]
 
     return fragments
+
+
+
+
+# def write_response_csv(responses):
+#     """
+#     Inputs the responses from GPT3 into a spreadsheet
+
+#     Where each file makes up one column, and each cell below
+#     represents the response for each fragment
+
+#     does not return anything
+#     """
+#     if os.path.exists(args.output):
+#         with open(os.path.normpath(args.output), "a") as out_file:
+#             writer = csv.writer(out_file, delimiter=",", quoting=csv.QUOTE_MINIMAL)
+#             writer.writerow(responses)
+#     else:
+#         os.makedirs("/".join(args.output.split("/")[:-1]))
+
+#         with open(os.path.normpath(args.output), "w+") as out_file:
+#             writer = csv.writer(out_file, delimiter=",", quoting=csv.QUOTE_MINIMAL)
+#             writer.writerow(responses)
+
+
+# def api_requests(fragments):
+#     """
+#     This function takes a list of parsed documents
+#     The whole list is one file
+
+#     Returns a list of all response texts in the same order as the
+#         parsed file
+#     """
+#     responses = []
+
+#     for f in fragments:
+#         resp = openai.Completion.create(engine="davinci", prompt=f, max_tokens=100)
+#         responses.append(resp["choices"][0]["text"])
+
+#     return responses

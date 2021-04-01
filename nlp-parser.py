@@ -23,9 +23,9 @@ def process_doc_file(input_file_path):
     fragments = parse_file(txt=txt, LIMIT=args.wlimit)
     write_output_file(fragments, file_name=input_file_path)
 
-    print(f'{input_file_path} is parsed. Sending API calls...\n')
-    gpt_responses = api_requests(fragments)
-    write_response_csv([input_file_path] + gpt_responses)
+    # print(f'{input_file_path} is parsed. Sending API calls...\n')
+    # gpt_responses = api_requests(fragments)
+    # write_response_csv([input_file_path] + gpt_responses)
     
 def process_txt_file(input_file_path):
     """
@@ -39,9 +39,9 @@ def process_txt_file(input_file_path):
     fragments = parse_file(txt_file=os.path.normpath(args.file), LIMIT=args.wlimit)
     write_output_file(fragments, file_name=input_file_path)
 
-    print(f'{input_file_path} is parsed. Sending API calls...\n')
-    gpt_responses = api_requests(fragments)
-    write_response_csv([input_file_path] + gpt_responses)
+    # print(f'{input_file_path} is parsed. Sending API calls...\n')
+    # gpt_responses = api_requests(fragments)
+    # write_response_csv([input_file_path] + gpt_responses)
 
 if __name__ == "__main__":
     # decide between file flow and directory flow
